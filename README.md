@@ -16,10 +16,10 @@ The PF-112-mk1 can be fitted with a Line-array type waveguide or a exponential h
 # Notes
 This is the final design.
 
-*3D designs and documentation provided by Lewis Cafaro *
+*3D designs and documentation provided by Clement Noel *
 ![PF-112-GER-Top](https://github.com/High-Order-Quarterwave-Society/Paraflex-112-GER-Top/blob/main/Design/Paraflex-112-GER-TOP-3D.jpg)
 
 
  #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
-Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Lewis Cafaro, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
+Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Mark Tomlin, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer, Clement Noel, Lewis Cafaro, Ben Wells and many many more.
 
