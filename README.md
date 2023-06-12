@@ -14,7 +14,7 @@ The PF-112-mk1 has a XX (Fb) tuning and working range shall be XX to XX. With ph
 The PF-112-mk1 can be fitted with a Line-array type waveguide or a exponential horn on top of the cabinet (or modeled into an extended cabinet). We recomend 1.4" or higher Compression Drivers capable in a range from about 800Hz, 900Hz or 1Khz up to 16-20Khz. 
 
 # Notes
-This is the final design.
+AWAITING NEW REVISION STATUS 2023.
 
 *3D designs and documentation provided by Clement Noel *
 ![PF-112-GER-Top](https://github.com/High-Order-Quarterwave-Society/Paraflex-112-GER-Top/blob/main/Design/Paraflex-112-GER-TOP-3D.jpg)
