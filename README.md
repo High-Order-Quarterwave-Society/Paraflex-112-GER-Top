@@ -1,5 +1,6 @@
-# Paraflex-112-GER-Top
-Paraflex 112 German Top Cabinet Final design
+# Paraflex-G#1-112-Top
+Paraflex 112 German Top Cabinet Final design.
+Note: This will be replaced soon by a new improved version
 
 The PF-112-GER-TOP was originaly designed by Matthew Morgan J. member of the **Higher Order Quarterwave Society** (HOQWS) which was started back in 2013 by Matthew Morgan J, Dustin Morgan (Flex Tech Designs) and J. Vansickle (Paragon Concepts) 
 
